@@ -70,4 +70,4 @@ A estrutura do banco foi planejada para suportar autenticação, assinaturas, pa
 
 ### Esquema do Banco de Dados
 
-![Database Schema](./database-schema.png)
+![Database Schema](./assets/database-schema.png)
